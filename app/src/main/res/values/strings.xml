@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Home Reminder</string>
+    <string name="title_activity_main">MainActivity</string>
+</resources>
